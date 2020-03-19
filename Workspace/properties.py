@@ -68,6 +68,7 @@ not_decorated.hard = 'testing again'
 print('the value not decorated.hard is', not_decorated.hard)
 print('HardWay.hard.__doc__')
 
+#done
 
 
 
